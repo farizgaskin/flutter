@@ -1,4 +1,4 @@
-The repo contains the source code for all the written tutorials by Fariz Gaskin.
+This repo contains the source code for all the Flutter tutorials written by Fariz Gaskin.
 
 All Tutorials plus additional snippets and shorter posts can be found on the Official <a href='https://farizgaskin.com'>FarizGaskin</a> website.
 
